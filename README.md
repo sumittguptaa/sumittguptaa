@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thesumitg" target="blank"><img src="https://img.shields.io/twitter/follow/thesumitg?logo=twitter&style=for-the-badge" alt="thesumitg" /></a> </p>
 
-- 🔭 I’m currently working on [d2mmall.com](d2mmall.com)
+- 🔭 I’m currently working at [FINMO](finmo.net)
 
 - 🌱 I’m currently learning **ReactJS , NodeJS**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/sumittguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumittguptaa" height="30" width="40" /></a>
 <a href="https://instagram.com/sssumitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sssumitgupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumitgupta4535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumitgupta4535" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/g_sumit_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g_sumit_g" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/trynottofind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g_sumit_g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
